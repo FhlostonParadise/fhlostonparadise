@@ -21,7 +21,7 @@ sections:
     background_color: primary
     background_image: images/FP-FINAL-03.jpg
     background_image_repeat: no-repeat
-    background_image_size: auto
+    background_image_size: cover
     background_image_opacity: 90
     has_border: true
   - type: blog_feed_section
