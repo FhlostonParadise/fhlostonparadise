@@ -40,7 +40,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: none
-    background_image: images/5th-Wide.png
+    background_image: images/FP-FINAL-01.jpg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
