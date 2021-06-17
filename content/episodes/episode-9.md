@@ -3,7 +3,7 @@ title: Apex '99
 date: '2021-06-04'
 categories:
   - data/categories/season-2.json
-thumb_image: images/post-9.jpg
+thumb_image: images/Apex99.png
 thumb_image_alt: Episode 9 placeholder image
 image: images/post-9.jpg
 image_alt: Episode 9 placeholder image
