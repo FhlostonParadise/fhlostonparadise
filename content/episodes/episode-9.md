@@ -5,7 +5,7 @@ categories:
   - data/categories/season-2.json
 thumb_image: images/Apex99.png
 thumb_image_alt: Episode 9 placeholder image
-image: images/post-9.jpg
+image: images/Apex99.png
 image_alt: Episode 9 placeholder image
 image_position: left
 episode_embed_html: >-
