@@ -1,8 +1,5 @@
 ---
 title: Apex '99
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
 date: '2021-01-04'
 categories:
   - data/categories/season-2.json
