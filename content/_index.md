@@ -8,7 +8,7 @@ sections:
       > *The music I write is mainly a substitute for life experiences I never
       had, and regression therapy for the ones I did.*
     actions:
-      - label: Subscribe to Podcast
+      - label: Listen Now
         url: /thank-you
         style: primary
     image: images/nervous-daffodil.png
