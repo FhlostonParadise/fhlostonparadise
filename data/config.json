@@ -4,7 +4,7 @@
     "style": "bold",
     "palette": "red",
     "mode": "dark",
-    "base_font": "roboto",
+    "base_font": "sans-serif",
     "header": {
         "title": "Podcaster",
         "logo": "images/5th-Wide.png",
