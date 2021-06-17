@@ -42,10 +42,6 @@ layout: post
 subtitle: Big Beat is Alive and Well
 excerpt: Test
 ---
-The early 2000's were the golden era for big beat and electronica. Chemical Brothers, The Crystal Method, and of course The Prodigy all started to breakthrough from the back bins at Tower Records to the front of the store. I remember seeing the earlier Prodigy albums all magically show up once Fat of the Land hit it. 
+The early 2000's were the golden era for big beat and electronica. Chemical Brothers, The Crystal Method, and of course The Prodigy all started to breakthrough from the back bins at Tower Records to the front of the store. I remember seeing the earlier Prodigy albums all magically show up once Fat of the Land hit it.
 
-I would be lying if I said this time and these artists didn't play a big part in how I wanted this track to sound. But like them, I did it from scratch. I built the drums up from a dozen different loops, filtering and cutting out the parts I didn't want and putting the parts I did want, right up front and slammed them. The difference in crafting the drums versus layering or flat out using loops is *unmistakable. *While the loudness wars rage on forums and reddit, and the kids are busy tuning their kicks, I'll just do it the way it's been done. 
-
-
-
-. 
+I would be lying if I said this time and these artists didn't play a big part in how I wanted this track to sound. But like them, I did it from scratch. I built the drums up from a dozen different loops, filtering and cutting out the parts I didn't want and putting the parts I did want, right up front and slammed them. The difference in crafting the drums versus layering or flat out using loops is \*unmistakable. \*While the loudness wars rage on forums and reddit, and the kids are busy tuning their kicks, I'll just do it the way it's been done.
