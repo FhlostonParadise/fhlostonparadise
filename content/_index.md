@@ -4,10 +4,9 @@ sections:
   - type: hero_section
     title: Fhloston Paradise
     subtitle: GenX / Millenial Daywalker
-    content: >+
-      \*The music I write is mainly a substitute for life experiences I never
-      had, and regression therapy for the ones I did. \*
-
+    content: >
+      ###### The music I write is mainly a substitute for life experiences I
+      never had, and regression therapy for the ones I did.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
