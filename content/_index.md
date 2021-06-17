@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Fhloston Paradise
-    subtitle: The GenX / Millenial Daywalker
+    subtitle: GenX / Millenial Daywalker
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
