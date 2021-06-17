@@ -42,9 +42,10 @@ layout: post
 subtitle: Big Beat is Alive and Well
 excerpt: Test
 ---
+The early 2000's were the golden era for big beat and electronica. Chemical Brothers, The Crystal Method, and of course The Prodigy all started to breakthrough from the back bins at Tower Records to the front of the store. I remember seeing the earlier Prodigy albums all magically show up once Fat of the Land hit it. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est ista, inquam, Piso, magna dissensio. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris. Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum. Invidiosum nomen est, infame, suspectum. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Duo Reges: constructio interrete. Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Ut aliquid scire se gaudeant?
+I would be lying if I said this time and these artists didn't play a big part in how I wanted this track to sound. But like them, I did it from scratch. I built the drums up from a dozen different loops, filtering and cutting out the parts I didn't want and putting the parts I did want, right up front and slammed them. The difference in crafting the drums versus layering or flat out using loops is *unmistakable. *While the loudness wars rage on forums and reddit, and the kids are busy tuning their kicks, I'll just do it the way it's been done. 
 
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
 
-Pythagoras et aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
+
+. 
