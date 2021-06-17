@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: Fhloston Paradise
     subtitle: GenX / Millenial Daywalker
     content: >
       > *The music I write is mainly a substitute for life experiences I never
